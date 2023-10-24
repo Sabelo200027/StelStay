@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "ra-data-json-server": "^4.15.1",
-    "react-admin": "^4.15.1"
-  }
-}

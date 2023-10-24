@@ -1,2 +1,0 @@
-# StelStay
-Accomodation App
