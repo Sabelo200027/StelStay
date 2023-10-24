@@ -1,5 +1,5 @@
 {
-  "name": "StelStay-App",
+  "name": "stelstay-admin",
   "private": true,
   "scripts": {
     "dev": "vite",
